@@ -73,7 +73,7 @@ The Haar Cascade Full Body Classifier on the other hand performed well at both d
 * Refactor the frame-processing while loop into a modular Python function to easily ingest dynamic video paths.
 
 ## Authors
-* Lead Developer – Eric Serrano
+* Lead Developer – **Eric Serrano**
 
 ## Version History
 * 0.1 – Initial Release 
